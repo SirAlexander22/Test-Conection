@@ -16,7 +16,7 @@ public class MyServlet extends HttpServlet{
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		PrintWriter out = resp.getWriter();
-		out.println("Test");
+		out.println("Test eclipse");
 				
 				
 	}
